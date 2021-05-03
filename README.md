@@ -12,8 +12,10 @@ The following information will be provided to W.Avy based on the analysis perfor
 2.	Results:
 
 
+
 a)	The summary statistics for June Temperature analysis shows a maximum temperature of 85 degrees.
 b)	The summary statistics for June Temperature shows a minimum temperature of 64 degrees and an average temperature of approximately 75 degrees.
+c)	The summary statistics for June Temperature analysis shows a maximum temperature of 83 degrees, minimum temperature of 56 degrees and an average temperature of approximately 71 degrees:
 
 June Temperature Analysis:
  
@@ -21,8 +23,6 @@ June Temperature Analysis:
  
 Figure 1: June Temperature Analysis
 
-
-c)	The summary statistics for June Temperature analysis shows a maximum temperature of 83 degrees, minimum temperature of 56 degrees and an average temperature of approximately 71 degrees:
 
 December Temperature Analysis:
 
