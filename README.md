@@ -17,6 +17,8 @@ b)	The summary statistics for June Temperature shows a minimum temperature of 64
 
 June Temperature Analysis:
  
+![image](https://user-images.githubusercontent.com/79670933/116833358-aa88ee00-ab86-11eb-8d56-cbdaebff6f1d.png)
+ 
 Figure 1: June Temperature Analysis
 
 
@@ -24,6 +26,9 @@ c)	The summary statistics for June Temperature analysis shows a maximum temperat
 
 December Temperature Analysis:
 
+![image](https://user-images.githubusercontent.com/79670933/116833368-ba083700-ab86-11eb-93f0-32d3741ff7db.png)
+
+Figure 2: December Temperature Analysis
 
 3.	Summary: 
 
